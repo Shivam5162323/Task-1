@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         leading: IconButton(onPressed: (){}, icon: Icon(CupertinoIcons.bars,color: Colors.black,)),
-        backgroundColor: Color(0xFFFf2f9fb),
+        backgroundColor:     Color(0xFFFEEF3FD),
         elevation: 0,
         title: Row(
           mainAxisAlignment: MainAxisAlignment.end,

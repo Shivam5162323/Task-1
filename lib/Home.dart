@@ -23,7 +23,7 @@ class _HomeState extends State<Home> {
            child: Column(
              children: [
                Container(
-                 color: Color(0xFFFf2f9fb),
+                 color: Color(0xFFFEEF3FD),
 
                  // margin: EdgeInsets.only(top: 30),
                 child: Column(
@@ -80,7 +80,7 @@ class _HomeState extends State<Home> {
                         ),style: ElevatedButton.styleFrom(
                             shape: RoundedRectangleBorder(side: BorderSide(color: Colors.blue),borderRadius: BorderRadius.all(Radius.circular(7))),
 
-                            backgroundColor:     Color(0xFFFf2f9fb),
+                            backgroundColor:     Color(0xFFFEEF3FD),
                     )
 
                         )),
@@ -106,7 +106,7 @@ class _HomeState extends State<Home> {
                           ),style: ElevatedButton.styleFrom(
                               shape: RoundedRectangleBorder(side: BorderSide(color: Colors.blue),borderRadius: BorderRadius.all(Radius.circular(7))),
 
-                            backgroundColor:     Color(0xFFFf2f9fb),
+                            backgroundColor:     Color(0xFFFEEF3FD),
 
                           )
 
@@ -135,7 +135,7 @@ class _HomeState extends State<Home> {
                         ),style: ElevatedButton.styleFrom(
                             shape: RoundedRectangleBorder(side: BorderSide(color: Colors.blue),borderRadius: BorderRadius.all(Radius.circular(7))),
 
-                          backgroundColor:     Color(0xFFFf2f9fb),
+                          backgroundColor:     Color(0xFFFEEF3FD),
                         )
 
                         )),
@@ -157,7 +157,7 @@ class _HomeState extends State<Home> {
                           ),
                         ),style: ElevatedButton.styleFrom(
                             shape: RoundedRectangleBorder(side: BorderSide(color: Colors.blue),borderRadius: BorderRadius.all(Radius.circular(7))),
-                          backgroundColor:     Color(0xFFFf2f9fb),
+                          backgroundColor:     Color(0xFFFEEF3FD),
                         )
 
                         )),
